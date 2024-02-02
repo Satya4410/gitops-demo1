@@ -7,7 +7,7 @@ spec:
   project: default
 
   source:
-    repoURL: https://github.com/Satya4410/gitops-demo.git
+    repoURL: https://github.com/Satya4410/gitops-demo1.git
     targetRevision: HEAD
     path: k8s
   destination:

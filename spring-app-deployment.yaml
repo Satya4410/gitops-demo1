@@ -27,7 +27,7 @@ spec:
     spec:
       containers:
         - name: gitops-demo
-          image: 
+          image: satya1175/spring-argocd-app:v1
           imagePullPolicy: Always
           ports:
             - containerPort: 8080
